@@ -1,3 +1,4 @@
+// THIS IS AGAIN A SIMPLE JAVA PROGRAM TO LEARN TO CREATE YOUR OWN CLASS AND OBJECT
 class cellphone
 {
     public void ringing()
